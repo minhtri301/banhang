@@ -1,0 +1,41 @@
+.menu ul li a { 
+     text-decoration: none;  
+     color: #696969;
+ }
+ .menu ul li a:hover{ 
+    color: #adad90;
+
+  }
+
+.menu { 
+   margin-top: 28px;
+   margin-bottom: -31px;
+   text-align: center;
+   margin-left: -54px;
+ }
+ .menu ul li { 
+     display: inline-block;
+     padding: 10px 20px;
+     text-transform: uppercase;
+
+  }
+  .menu img { 
+    margin: -34px 15px -30px;
+   }
+  .menu img:hover{
+     opacity:0;
+
+  }
+
+ 
+
+
+
+
+
+
+
+
+
+
+

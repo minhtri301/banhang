@@ -1,0 +1,17 @@
+.left {
+    float: left;
+    margin-top: 20px;
+    width: 50%;
+    height: 500px;
+}
+
+.right {
+    margin-top: 20px;
+    float: left;
+    width: 50%;
+    height: 500px;
+}
+.show_product {
+    display: flex;
+    flex-flow: wrap;
+}

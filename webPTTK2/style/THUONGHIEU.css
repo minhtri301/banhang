@@ -1,0 +1,21 @@
+.thuonghieu {
+
+    border: 1px solid gray;
+    background-color: #752e2e;
+    margin-left: 441px;
+    text-align: center;
+    margin-top: 40px;
+    width: 476px;
+        color: silver;
+
+}
+#tieudethuonghieu {
+       text-align: center;
+    margin-top: 30px;
+    color: #5d5858; 
+
+
+ }
+#tieudethuonghieu:hover {
+      color:#a50909;
+ }

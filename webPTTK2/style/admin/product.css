@@ -1,0 +1,18 @@
+
+.category_doiten{
+    float: left;
+    width: 30%;
+    height: 500px;
+    background: antiquewhite;
+}
+
+
+.Product_doiten{
+	background: aquamarine;
+	height: 500px;
+	width: 30%;
+	float: left;
+}
+#container_product{
+	margin-top: 74px;
+}

@@ -1,0 +1,21 @@
+.top_ {
+    height: 80px;
+    background: antiquewhite;
+   position: fixed;
+   width:100%;
+   top: -6px;
+
+}
+
+.left_ {
+    width: 280px;
+    background: aqua;
+    height: 608px;
+    float: left;
+    position: fixed;
+}
+
+.center_{
+    margin-top: 74px;
+    margin-left: 281px;
+}
